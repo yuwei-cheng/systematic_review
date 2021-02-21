@@ -11,4 +11,4 @@ In general, this tutorial introduces
 - How to screen abstracts to decide which paper to include by using R library(metagear)
 - How to download included paper and save their name in a systematic way (for example, ENTREZ ID) by using R library (metagear)
             
-Noticed that we need to mannually download articles if they are not open access (not free)
+Notice that we need to mannually download articles if they are not open access (not free)
